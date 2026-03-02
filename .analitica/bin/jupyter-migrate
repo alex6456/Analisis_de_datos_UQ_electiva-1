@@ -1,4 +1,4 @@
-#!/workspaces/An-lisis_de_datos_UQ/.analitica/bin/python
+#!/workspaces/Analisis_de_datos_UQ_electiva-1/.analitica/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
